@@ -1,9 +1,4 @@
 PGM
-<<<<<<< HEAD
     DCL &VAR6 *CHAR 10
     DCL &VAR7 *CHAR 10
-=======
-    DCL &VAR5 *CHAR 10
-    DCL &VAR6 *CHAR 10
->>>>>>> c8dd6dd7a3fb0cd5c9dff2efda4e52c5d41744de
 ENDPGM
